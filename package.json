@@ -1,0 +1,16 @@
+{
+  "name": "backen-main",
+  "version": "1.0.0",
+  "description": "a bckend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "script",
+    "bsckend"
+  ],
+  "author": "srijit",
+  "license": "ISC"
+}
